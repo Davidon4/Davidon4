@@ -1,6 +1,6 @@
-<h1 align="center">Hi 👋, I'm Ezeluaku David</h1>
-<h3 align="center">A passionate mobile application developer currently based in Lagos, Nigeria</h3>
-<img align= "right" alt="Hello" width="400" src="https://physicsgurukul.com/wp-content/uploads/2019/02/character-1.gif">
+<h1 align="center">Hi there 👋, Welcome!</h1>
+
+<img align= "center" alt="Hello" width="400" src="https://physicsgurukul.com/wp-content/uploads/2019/02/character-1.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=davidon4&label=Profile%20views&color=0e75b6&style=flat" alt="davidon4" /> </p>
 
